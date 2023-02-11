@@ -28,3 +28,5 @@ As said earlier, this project is from an early stage of mine. I consider it lega
 ## ✨ Coming Soon
 
 "Pets" marked my life for being my entry point in modeling projects, databases and a website. Therefore, this system will gain a new version, using current technologies and receiving new features.
+
+Made with 🧡 by Vanderlei Furtuna 🤝 [See my LinkedIn](https://www.linkedin.com/in/vanderlei-furtuna-12bb39235/)
